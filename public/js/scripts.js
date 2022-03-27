@@ -1,3 +1,3 @@
-function UploadFile(){
-    alert("Submitton success!")
+function UploadFile() {
+    alert("Submit successfully!")
 }
