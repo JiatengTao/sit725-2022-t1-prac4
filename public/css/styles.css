@@ -1,0 +1,16 @@
+.user-image-size {
+    height: 64px;
+    }
+.nav-wrapper {
+    background-color: #1e88e5 !important;
+    font-size: 14px;
+    font-weight: bold;
+  }
+.nav-content {
+    background-color: #e0f7fa !important;
+    font-size: 10px;
+    font-weight: bold;
+}
+.nav div li a{
+    color: black !important;
+}
