@@ -50,7 +50,7 @@ const getProjects = (callback) => {
     petsCollection.find({}).toArray(callback);
 }
 const insertAccounts = (account,callback) => {
-    accounts.Collection.insert(account,callback);
+    accountsCollection.insert(account,callback);
 }
 const getAccounts = (callback) => {
     accountsCollection.find({}).toArray(callback);
